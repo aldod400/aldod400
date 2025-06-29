@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1A1B27&height=80&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=80&section=header" />
 </div>
 
 # 👋 Hi, I'm Abdelrahman Elghonemy
@@ -170,7 +170,7 @@ Passionate Backend Developer specializing in scalable server-side applications a
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1A1B27&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=60&section=footer" />
 </div>
 
 <div align="center">
