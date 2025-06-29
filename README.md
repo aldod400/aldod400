@@ -76,7 +76,7 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=aldod400&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats-pi-one.vercel.app/?user=aldod400&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
