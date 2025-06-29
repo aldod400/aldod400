@@ -114,8 +114,22 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=portfolio&theme=tokyonight&cache_seconds=1800)](https://github.com/aldod400/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=aldod400&theme=tokyonight&cache_seconds=1800)](https://github.com/aldod400/aldod400)
+[![E-commerce Laravel](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=E-commerce-Laravel&theme=tokyonight)](https://github.com/aldod400/E-commerce-Laravel)
+[![CRM System](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=CRM&theme=tokyonight)](https://github.com/aldod400/CRM)
+
+</div>
+
+<div align="center">
+
+[![Pay Your Premium](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=pay-your-premium&theme=tokyonight)](https://github.com/aldod400/pay-your-premium)
+[![TeamsMaker Backend](https://github-readme-stats.vercel.app/api/pin/?username=TeamsMaker-Backend&repo=TeamsMaker&theme=tokyonight)](https://github.com/TeamsMaker-Backend/TeamsMaker)
+
+</div>
+
+<div align="center">
+
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed4mach&repo=library-management-system-laravel&theme=tokyonight)](https://github.com/Mohammed4mach/library-management-system-laravel)
+[![Pizza Queen Backend](https://github-readme-stats.vercel.app/api/pin/?username=BackEnd-marketopia&repo=pizza_queen&theme=tokyonight)](https://github.com/BackEnd-marketopia/pizza_queen)
 
 </div>
 
