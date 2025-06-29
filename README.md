@@ -1,14 +1,18 @@
-# 👋 Hi there, I'm Abdelrahman Elghonemy
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1A1B27&height=80&section=header" />
+</div>
+
+# 👋 Hi, I'm Abdelrahman Elghonemy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Backend+Developer;Server-Side+Enthusiast;API+Builder;Database+Architect;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Server-Side+Enthusiast;API+Builder;Database+Architect;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elghonemy-074867242/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldod400)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abdelrahman-elghonemy.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldod400)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://abdelrahman-elghonemy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldodelghonemy400@gmail.com)
 
 </div>
@@ -17,13 +21,13 @@
 
 ## 🚀 About Me
 
-Passionate Backend Developer who loves building robust and scalable server-side applications! 💡 Specialized in developing efficient APIs, managing databases, and creating secure backend architectures using modern technologies.
+Passionate Backend Developer specializing in scalable server-side applications and efficient API development. I focus on building robust architectures, optimizing database performance, and implementing secure backend solutions using modern technologies.
 
-- 🔭 I'm currently working on exciting backend projects and microservices
-- 🌱 I'm constantly learning new backend technologies and best practices
-- 👯 I'm looking to collaborate on open source backend projects
-- 💬 Ask me about Node.js, PHP, Python, databases, and API development!
-- ⚡ Fun fact: I love optimizing database queries and solving complex backend challenges
+- 🔭 Currently working on exciting backend projects and microservices architecture
+- 🌱 Constantly learning new backend technologies and best practices
+- 👯 Looking to collaborate on open source backend projects
+- 💬 Ask me about Node.js, PHP, Python, databases, and API development
+- ⚡ Specialized in optimizing database queries and solving complex backend challenges
 
 ---
 
@@ -129,7 +133,6 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 <div align="center">
 
 [![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=Mohammed4mach&repo=library-management-system-laravel&theme=tokyonight)](https://github.com/Mohammed4mach/library-management-system-laravel)
-[![Pizza Queen Backend](https://github-readme-stats.vercel.app/api/pin/?username=BackEnd-marketopia&repo=pizza_queen&theme=tokyonight)](https://github.com/BackEnd-marketopia/pizza_queen)
 
 </div>
 
@@ -145,11 +148,11 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 
 ## 🎯 2025 Goals
 
-- [ ] 🚀 Build 5 scalable backend APIs
+- [ ] 🚀 Develop 5 production-ready scalable backend APIs
 - [ ] 📚 Master microservices architecture and containerization
-- [ ] 🤝 Contribute to 10 open source backend projects
-- [ ] 📝 Write 20 technical articles about backend development
-- [ ] 🎤 Give a talk about API design and best practices
+- [ ] 🤝 Contribute to 10+ open source backend projects
+- [ ] 📝 Write technical articles about backend development best practices
+- [ ] 🎤 Present at developer conferences on API design and best practices
 
 ---
 
@@ -158,16 +161,20 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 <div align="center">
 
 **💡 Have a project idea? Want to collaborate?**  
-**📧 Don't hesitate to reach out!**
+**📧 Let's discuss your next backend project**
 
-<img src="https://komarev.com/ghpvc/?username=aldod400&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=aldod400&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1A1B27&height=60&section=footer" />
+</div>
+
+<div align="center">
+  <h3>🌟 "Clean code always looks like it was written by someone who cares"</h3>
   
-  **Made with ❤️ by Abdelrahman Elghonemy**
+  **Built with precision by Abdelrahman Elghonemy**
 </div>
