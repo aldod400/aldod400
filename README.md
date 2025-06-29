@@ -98,7 +98,14 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/aldod400/aldod400/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldod400&custom_title=Abdelrahman's%20Contribution%20Graph&bg_color=1a1b27&color=7dcfff&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldod400/aldod400/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldod400/aldod400/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
