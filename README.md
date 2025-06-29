@@ -119,16 +119,24 @@ Passionate Backend Developer specializing in scalable server-side applications a
 <div align="center">
 
 [![E-commerce Laravel](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=E-commerce-Laravel&theme=tokyonight)](https://github.com/aldod400/E-commerce-Laravel)
+<br/>
+<br/>
+
 [![CRM System](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=CRM&theme=tokyonight)](https://github.com/aldod400/CRM)
 
 </div>
+<br>
 
 <div align="center">
 
 [![Pay Your Premium](https://github-readme-stats.vercel.app/api/pin/?username=aldod400&repo=pay-your-premium&theme=tokyonight)](https://github.com/aldod400/pay-your-premium)
+<br/>
+<br/>
+
 [![TeamsMaker Backend](https://github-readme-stats.vercel.app/api/pin/?username=TeamsMaker-Backend&repo=TeamsMaker&theme=tokyonight)](https://github.com/TeamsMaker-Backend/TeamsMaker)
 
 </div>
+<br/>
 
 <div align="center">
 
@@ -170,7 +178,7 @@ Passionate Backend Developer specializing in scalable server-side applications a
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7,BB9AF7&height=60&section=footer" />
 </div>
 
 <div align="center">
