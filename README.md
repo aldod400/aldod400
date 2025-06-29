@@ -67,22 +67,22 @@ Passionate Backend Developer who loves building robust and scalable server-side 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=aldod400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=aldod400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
   <br/>
   <br/>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldod400&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldod400&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=aldod400&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aldod400&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aldod400&theme=tokyo-night&hide_border=true&area=true&border_radius=10&cache_seconds=1800" alt="Activity Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aldod400&theme=tokyo-night&hide_border=true&area=true&border_radius=10" alt="Activity Graph" />
 </div>
 
 ---
