@@ -178,7 +178,7 @@ Passionate Backend Developer specializing in scalable server-side applications a
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7,BB9AF7&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=80&section=footer" alt="Footer Wave" />
 </div>
 
 <div align="center">
