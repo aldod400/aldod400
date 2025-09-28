@@ -80,13 +80,13 @@ Passionate Backend Developer specializing in scalable server-side applications a
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats-pi-one.vercel.app/?user=aldod400&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats-pi-one.vercel.app/?user=aldod400&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aldod400&theme=tokyo-night&hide_border=true&area=true&border_radius=10" alt="Activity Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aldod400&theme=tokyo-night&count_private=true&hide_border=true&area=true&border_radius=10" alt="Activity Graph" />
 </div>
 
 ---
